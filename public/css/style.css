@@ -1,0 +1,45 @@
+h2{
+    color:red;
+}
+*{
+    font-family: 'Poiret One', cursive;
+}
+img{
+    width:100%;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+.main-header{
+    font-weight:bold;
+    color:green;
+    text-shadow: 2px 2px 2px red;
+}
+.setting:hover{
+    background-image: linear-gradient(to right, #1c92d2 , #f2fcfe);
+}
+
+.logo{
+    font-size:3.5rem;
+    letter-spacing: 1px;
+    color:#fd5c63;
+    text-shadow:2px 5px 3px rgba(0,0,0,0.06);
+}
+#navbarNav > ul > li.nav-item> a{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+
+
+.btn-style{
+    width: fit-content ;
+    background: pink !important;
+    border: none !important;
+}
+
+.navbar-styled{
+    background-color: #f8f9fa;
+    box-shadow:2px 4px 13px 1px  rgba(8,8,8,0.04);
+}
